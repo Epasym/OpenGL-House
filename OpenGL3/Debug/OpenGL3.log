@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(82,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(84,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(92,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(118,55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(118,55): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(141,49): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(141,49): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(141,88): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(141,88): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(154,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(160,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(169,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(172,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(173,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(174,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(177,44): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(177,44): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(177,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(177,63): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(177,82): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(177,82): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(178,45): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(178,45): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(178,64): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(178,64): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(178,83): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\epasy\source\repos\OpenGL3\OpenGL3\Source.cpp(178,83): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGL3.vcxproj -> C:\Users\epasy\source\repos\OpenGL3\Debug\OpenGL3.exe
